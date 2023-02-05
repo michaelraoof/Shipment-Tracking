@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/michaelraoof/Shipment-Tracking/static/css/main.4e1657cc.css",
-    "main.js": "/michaelraoof/Shipment-Tracking/static/js/main.764b1faf.js",
-    "static/media/Cairo-SemiBold.ttf": "/michaelraoof/Shipment-Tracking/static/media/Cairo-SemiBold.15e9484c1902ed4cdb52.ttf",
-    "static/media/Cairo-ExtraBold.ttf": "/michaelraoof/Shipment-Tracking/static/media/Cairo-ExtraBold.28f05ea566be60209956.ttf",
-    "static/media/Cairo-Medium.ttf": "/michaelraoof/Shipment-Tracking/static/media/Cairo-Medium.6370a01bd2091982922d.ttf",
-    "static/media/Cairo-Black.ttf": "/michaelraoof/Shipment-Tracking/static/media/Cairo-Black.90989973641491365d90.ttf",
-    "static/media/Cairo-Bold.ttf": "/michaelraoof/Shipment-Tracking/static/media/Cairo-Bold.eb93c1cad8e834e34b2f.ttf",
-    "static/media/Cairo-Light.ttf": "/michaelraoof/Shipment-Tracking/static/media/Cairo-Light.1e409619359b7fb0577c.ttf",
-    "static/media/Cairo-Regular.ttf": "/michaelraoof/Shipment-Tracking/static/media/Cairo-Regular.ee4f13794398ff1bc1c2.ttf",
-    "static/media/Cairo-ExtraLight.ttf": "/michaelraoof/Shipment-Tracking/static/media/Cairo-ExtraLight.9faac8b00fbb323d117b.ttf",
-    "static/media/bostaLogo.svg": "/michaelraoof/Shipment-Tracking/static/media/bostaLogo.29487f0db8e718bf896f4528bd38661f.svg",
-    "static/media/bostaARLogo.svg": "/michaelraoof/Shipment-Tracking/static/media/bostaARLogo.dc44043ea3654ef8e7eeb4c5ee4972c2.svg",
-    "static/media/warnning.svg": "/michaelraoof/Shipment-Tracking/static/media/warnning.9fb529ba762bd044f1a98dcfb8d2086f.svg",
-    "index.html": "/michaelraoof/Shipment-Tracking/index.html",
-    "static/media/searchIcon.svg": "/michaelraoof/Shipment-Tracking/static/media/searchIcon.e127feab6bb07db274263b7ffbf92007.svg",
-    "static/media/arrow.svg": "/michaelraoof/Shipment-Tracking/static/media/arrow.1c685fde0db3ed35760de329e81b0baa.svg",
-    "main.4e1657cc.css.map": "/michaelraoof/Shipment-Tracking/static/css/main.4e1657cc.css.map",
-    "main.764b1faf.js.map": "/michaelraoof/Shipment-Tracking/static/js/main.764b1faf.js.map"
+    "main.css": "/Shipment-Tracking/static/css/main.29e6feba.css",
+    "main.js": "/Shipment-Tracking/static/js/main.3cf76e65.js",
+    "static/media/Cairo-SemiBold.ttf": "/Shipment-Tracking/static/media/Cairo-SemiBold.15e9484c1902ed4cdb52.ttf",
+    "static/media/Cairo-ExtraBold.ttf": "/Shipment-Tracking/static/media/Cairo-ExtraBold.28f05ea566be60209956.ttf",
+    "static/media/Cairo-Medium.ttf": "/Shipment-Tracking/static/media/Cairo-Medium.6370a01bd2091982922d.ttf",
+    "static/media/Cairo-Black.ttf": "/Shipment-Tracking/static/media/Cairo-Black.90989973641491365d90.ttf",
+    "static/media/Cairo-Bold.ttf": "/Shipment-Tracking/static/media/Cairo-Bold.eb93c1cad8e834e34b2f.ttf",
+    "static/media/Cairo-Light.ttf": "/Shipment-Tracking/static/media/Cairo-Light.1e409619359b7fb0577c.ttf",
+    "static/media/Cairo-Regular.ttf": "/Shipment-Tracking/static/media/Cairo-Regular.ee4f13794398ff1bc1c2.ttf",
+    "static/media/Cairo-ExtraLight.ttf": "/Shipment-Tracking/static/media/Cairo-ExtraLight.9faac8b00fbb323d117b.ttf",
+    "static/media/bostaLogo.svg": "/Shipment-Tracking/static/media/bostaLogo.29487f0db8e718bf896f4528bd38661f.svg",
+    "static/media/bostaARLogo.svg": "/Shipment-Tracking/static/media/bostaARLogo.dc44043ea3654ef8e7eeb4c5ee4972c2.svg",
+    "static/media/warnning.svg": "/Shipment-Tracking/static/media/warnning.9fb529ba762bd044f1a98dcfb8d2086f.svg",
+    "index.html": "/Shipment-Tracking/index.html",
+    "static/media/searchIcon.svg": "/Shipment-Tracking/static/media/searchIcon.e127feab6bb07db274263b7ffbf92007.svg",
+    "static/media/arrow.svg": "/Shipment-Tracking/static/media/arrow.1c685fde0db3ed35760de329e81b0baa.svg",
+    "main.29e6feba.css.map": "/Shipment-Tracking/static/css/main.29e6feba.css.map",
+    "main.3cf76e65.js.map": "/Shipment-Tracking/static/js/main.3cf76e65.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e1657cc.css",
-    "static/js/main.764b1faf.js"
+    "static/css/main.29e6feba.css",
+    "static/js/main.3cf76e65.js"
   ]
 }

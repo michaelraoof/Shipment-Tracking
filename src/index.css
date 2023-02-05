@@ -1,13 +1,40 @@
+@font-face {
+  font-family: cairo-200;
+  src: url(../public/assets/Cairo-ExtraLight.ttf);
+}
+@font-face {
+  font-family: cairo-300;
+  src: url(../public/assets/Cairo-Light.ttf);
+}
+@font-face {
+  font-family: cairo-400;
+  src: url(../public/assets/Cairo-Regular.ttf);
+}
+@font-face {
+  font-family: cairo-500;
+  src: url(../public/assets/Cairo-Medium.ttf);
+}
+@font-face {
+  font-family: cairo-600;
+  src: url(../public/assets/Cairo-SemiBold.ttf);
+}
+@font-face {
+  font-family: cairo-700;
+  src: url(../public/assets/Cairo-Bold.ttf);
+}
+@font-face {
+  font-family: cairo-800;
+  src: url(../public/assets/Cairo-ExtraBold.ttf);
+}
+@font-face {
+  font-family: cairo-900;
+  src: url(../public/assets/Cairo-Black.ttf);
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  width: 100vw;
+  height: 100vh;
 }

@@ -100,13 +100,15 @@ function App() {
           }
         </div>
       ) : (
-        <div
-          style={{ maxWidth: "600px", borderRadius: "4px", border: "1px solid #fecdca" }}
-          className="bg-[#fef3f2] p-[16px] flex flex-row text-[14px] items-start  justify-center mx-auto"
-        >
-          <img src={WarnningIcon} alt="" />
-          <div>{getActiveLanguage[language].notFound}</div>
-        </div>
+        data.TrackingNumber != "" && (
+          <div
+            style={{ maxWidth: "600px", borderRadius: "4px", border: "1px solid #fecdca" }}
+            className="bg-[#fef3f2] p-[16px] flex flex-row text-[14px] items-start  justify-center mx-auto"
+          >
+            <img src={WarnningIcon} alt="" />
+            <div>{getActiveLanguage[language].notFound}</div>
+          </div>
+        )
       )}
     </div>
   );

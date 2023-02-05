@@ -38,14 +38,20 @@ function SearchBar() {
                 }}
               />
               {language === "EN" ? (
-                <div className="bg-[#e30613] rounded-r-lg w-[50px]  ml-[-40px] flex items-center justify-center   ">
+                <div
+                  onClick={() => {
+                    dispatch(reduxFunctions.shipmentSlice.actions.setTrackingNumber(searchBar));
+                  }}
+                  className="bg-[#e30613] cursor-pointer  rounded-r-lg w-[50px]  ml-[-40px] flex items-center justify-center   "
+                >
                   <img alt="search icon" width={30} height={30} src={searchBarIcon}></img>
                 </div>
               ) : (
                 <div
-                  className="bg-[#e30613] rounded-l-lg
-
- w-[50px]  mr-[-70px] flex items-center justify-center   "
+                  onClick={() => {
+                    dispatch(reduxFunctions.shipmentSlice.actions.setTrackingNumber(searchBar));
+                  }}
+                  className="bg-[#e30613] rounded-l-lg cursor-pointer  w-[50px]  mr-[-70px] flex items-center justify-center   "
                 >
                   <img alt="search icon" width={30} height={30} src={searchBarIcon}></img>
                 </div>
